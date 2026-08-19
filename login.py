@@ -13,7 +13,7 @@ class Login_Window:
         title = Label(self.root,text="Employee Login",font=("times new roman", 28, "bold"),bg="white",fg="darkblue")
         title.pack(pady=30)
 
-        # Username
+        # Username for form
         lbl_user = Label(self.root,text="Username",font=("arial", 15, "bold"),bg="white")
         lbl_user.pack(pady=10)
 
