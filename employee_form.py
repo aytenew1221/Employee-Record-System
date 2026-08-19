@@ -16,7 +16,7 @@ def create_employee_form(employee_obj, parent_frame):
 
     upper_frame.place(x=10, y=10, relwidth=0.98, height=270)
 
-    # ================= Department =================
+    # ================= Department ==============
 
     lbl_dep = Label(
         upper_frame,
