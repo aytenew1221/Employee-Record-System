@@ -21,7 +21,7 @@ class Employee:
 
         self.root.configure(bg="white")
 
-        # ================= Variables =================
+        # ================= Variables ===============
 
         self.var_department = StringVar()
         self.var_name = StringVar()
