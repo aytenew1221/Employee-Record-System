@@ -1,6 +1,6 @@
 from tkinter import *
 
-
+#Animated imployee table
 def move_title(employee_obj):
 
     text = employee_obj.title_text
