@@ -4,7 +4,7 @@ from tkinter import ttk
 
 def create_employee_table(employee_obj, parent_frame):
 
-    # ================= Down Frame =================
+    # ================= Down Frame ===============
 
     down_frame = LabelFrame(
         parent_frame,
