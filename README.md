@@ -176,7 +176,3 @@ This project demonstrates practical use of:
 ## 👨‍💻 Author
 
 **Aytenew Ayele**
-
-GitHub: `https://github.com/YOUR-USERNAME`
-
-## 📄 License
