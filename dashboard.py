@@ -10,7 +10,7 @@ def create_dashboard(root):
 
     dashboard_frame.place(x=0, y=190, relwidth=1, height=90)
 
-    # ================= DASHBOARD CARDS =================
+    # ================= DASHBOARD CARDS =============
 
     cards = [
         ("TOTAL EMPLOYEES\n120", "#4CAF50"),
