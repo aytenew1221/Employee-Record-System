@@ -1,3 +1,4 @@
+#Database connection
 import mysql.connector
 
 
